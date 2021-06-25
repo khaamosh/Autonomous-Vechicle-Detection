@@ -56,7 +56,7 @@ same parameter settings as Task 1.
 
 ### RESULT
 
-![Alt text](./Q2_output.png "Rotated Image SIFT features with nfeatures=400")
+![Alt text](./Q2_output.jpg "Rotated Image SIFT features with nfeatures=400")
 
 ## TASK 3 Test rotational invariance of SIFT features
 
