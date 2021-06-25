@@ -24,7 +24,7 @@
 
 ## RESULTS
 
-![Alt text](./ball_set.jpg "Image Segmentation using Watershed Method")
+![Alt text](./ball_set_1.png "Image Segmentation using Watershed Method")
 
 # TASK 2
 
@@ -43,7 +43,7 @@
 
 ## RESULTS
 
-![Alt text](./ball_set.jpg "Image Segmentation using Meanshift Method")
+![Alt text](./ball_set_2.png "Image Segmentation using Meanshift Method")
 
 # TASK 3
 
@@ -62,4 +62,4 @@
 
 ## RESULTS
 
-![Alt text](./planets.jpg "Image Segmentation using Meanshift and Watershed Method")
+![Alt text](./output.png "Image Segmentation using Meanshift and Watershed Method")
