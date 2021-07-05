@@ -1,4 +1,4 @@
-# Autonomous-Vechicle-Detection--COMP-9517
+# Autonomous-Vechicle-Detection
 This capstone project was created towards the fullfilment of the Computer Vision Course at UNSW
 
 # Description
